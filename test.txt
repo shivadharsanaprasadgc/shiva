@@ -1,2 +1,1 @@
-Anna University Regional Campus
-CSE Department
+Artificial Intelligence and Data science
